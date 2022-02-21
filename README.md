@@ -1,1 +1,1 @@
-# reactjs_ts_redux_saga
+# ReactJS com Typescript, Redux, e Redux Saga
